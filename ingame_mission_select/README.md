@@ -1,6 +1,7 @@
 ## In-game mission select
 
-When playing the game, and pausing, D-pad left and right keys will allow to which mission you will skip
+When playing the game, and pausing, D-pad left and right keys will allow to which mission you will skip upon leaving pause menu.
+
 If no other mission is selected, game will resume normally
 
 ## Caveat :
